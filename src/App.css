@@ -22,6 +22,10 @@
   font-size: 40px;
 }
 
+.logo img {
+  width: 110px;
+}
+
 .social-icons a{
   margin-left: 15px;
 }
@@ -45,9 +49,9 @@
 }
 
 .discription {
+  font-family: Montserrat-light;
+  font-size: 32px;
   margin: 35px 10px;
-  font-family: 'Montserrat';
-  font-size: 25px;
 }
 
 @media (max-width: 480px) {
@@ -67,7 +71,7 @@
   }
 }
 .footer-text {
+  font-family: Montserrat-semibold;
+  font-size: 32px;
   margin: 40px 10px;
-  font-family: 'Montserrat';
-  font-size: 25px;
 }
