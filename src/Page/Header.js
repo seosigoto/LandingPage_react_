@@ -9,9 +9,9 @@ export function Header() {
                 !!
             </div>
             <div className="social-icons">
-                <img src={Discord} alt='discord'/>
-                <img src={Twitter} alt='twitter'/>
-                <img src={Medium} alt='medium'/>
+                <a href="https://discord.com" target="_blank"><img src={Discord} alt='discord'/></a>
+                <a href="https://twitter.com" target="_blank"><img src={Twitter} alt='twitter'/></a>
+                <a href="https://medium.com" target="_blank"><img src={Medium} alt='medium'/></a>
             </div>
         </div>
     )

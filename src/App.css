@@ -15,7 +15,6 @@
 .social-icons {
   display: flex;
   justify-content: flex-end;
-  width: 50px;
 }
 
 .logo {
@@ -23,11 +22,14 @@
   font-size: 40px;
 }
 
-.social-icons img {
+.social-icons a{
   margin-left: 15px;
-  cursor: pointer;
 }
 
+.social-icons a{
+  width: 40px;
+  cursor: pointer;
+}
 .main-section {
   width: 60%;
   margin-left: auto;
