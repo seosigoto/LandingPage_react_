@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LandingPage_react_/static/css/main.65e1f280.css",
+    "main.js": "/LandingPage_react_/static/js/main.cada0229.js",
+    "static/js/787.b990d562.chunk.js": "/LandingPage_react_/static/js/787.b990d562.chunk.js",
+    "static/media/Background.svg": "/LandingPage_react_/static/media/Background.bd617a0012929b408ddd.svg",
+    "static/media/Montserrat-Bold.ttf": "/LandingPage_react_/static/media/Montserrat-Bold.733964aa5261b1af4852.ttf",
+    "static/media/main_Graphic.svg": "/LandingPage_react_/static/media/main_Graphic.d9c085fd2d67fc1251b7dca034888fab.svg",
+    "static/media/Double Logo.svg": "/LandingPage_react_/static/media/Double Logo.0946ee946949fe2448e443b46eb250a1.svg",
+    "static/media/Discord Icon.svg": "/LandingPage_react_/static/media/Discord Icon.a6ec71e358e2e2ce1384eee696f6f592.svg",
+    "index.html": "/LandingPage_react_/index.html",
+    "static/media/Twitter Icon.svg": "/LandingPage_react_/static/media/Twitter Icon.c3907af8d498e09ab3d4b621fabf5b09.svg",
+    "static/media/Medium Icon.svg": "/LandingPage_react_/static/media/Medium Icon.be79fe346c016c7dff6d4cc42d83540f.svg",
+    "main.65e1f280.css.map": "/LandingPage_react_/static/css/main.65e1f280.css.map",
+    "main.cada0229.js.map": "/LandingPage_react_/static/js/main.cada0229.js.map",
+    "787.b990d562.chunk.js.map": "/LandingPage_react_/static/js/787.b990d562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e1f280.css",
+    "static/js/main.cada0229.js"
+  ]
+}
