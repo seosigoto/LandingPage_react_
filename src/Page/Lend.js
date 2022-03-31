@@ -9,7 +9,11 @@ export default function Lend() {
                 <p>Linking projects to Liquidity & doubling profit for LPs.</p>
             </div>
             <img src={MainImg} alt='Main'/>
-            <div className='footer-text'>Let's Double 2 Win!</div>
+            <div className='footer-text'>
+                <a href="https://medium.com/@double2win/double-to-win-e38001f46e2e" target="_blank" rel="noreferrer" style={{textDecoration: "none", color: "black"}}>
+                Let's Double 2 Win!
+                </a>                
+            </div>
         </div>
     )
 }
