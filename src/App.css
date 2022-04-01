@@ -15,8 +15,13 @@
 .social-icons {
   display: flex;
   justify-content: flex-end;
+  align-items: center;
 }
-
+.social-icon {
+  margin-left: 5px;
+  width: 40px;
+  cursor: pointer;
+}
 .logo {
   font-weight: bold;
   font-size: 40px;
@@ -26,13 +31,8 @@
   width: 110px;
 }
 
-.social-icons a{
+.social-icons div{
   margin-left: 15px;
-}
-
-.social-icons a{
-  width: 40px;
-  cursor: pointer;
 }
 .main-section {
   width: 60%;
@@ -54,6 +54,10 @@
   margin: 35px 10px;
 }
 
+.discription p:nth-child(2) {
+  font-size: 23px;
+}
+
 @media (max-width: 480px) {
   .main-section {
     width: 80%;
@@ -65,7 +69,12 @@
 
   .discription {
     font-size: 15px !important;
-  } 
+  }
+
+  .discription p:nth-child(2) {
+    font-size: 13px;
+  }
+
   .footer-text {
     font-size: 15px !important;
   }
@@ -74,4 +83,8 @@
   font-family: Montserrat-semibold;
   font-size: 32px;
   margin: 40px 10px;
+}
+
+.footer-text a{
+  cursor: pointer;
 }

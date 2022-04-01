@@ -10,9 +10,9 @@ export function Header() {
                 <img src={DoubleLogo} alt="double"/>
             </div>
             <div className="social-icons">
-                <a href="https://discord.gg/ycyr8Fp3Wu" target="_blank" rel="noreferrer"><img src={Discord} alt='discord'/></a>
-                <a href="https://twitter.com/double2winwin" target="_blank" rel="noreferrer"><img src={Twitter} alt='twitter'/></a>
-                <a href="https://double2win.medium.com" target="_blank" rel="noreferrer"><img src={Medium} alt='medium'/></a>
+                <div className="social-icon"><a href="https://discord.gg/ycyr8Fp3Wu" target="_blank" rel="noreferrer"><img src={Discord} alt='discord'/></a></div>
+                <div className="social-icon"><a href="https://twitter.com/double2winwin" target="_blank" rel="noreferrer"><img src={Twitter} alt='twitter'/></a></div>
+                <div className="social-icon"><a href="https://double2win.medium.com" target="_blank" rel="noreferrer"><img src={Medium} alt='medium'/></a></div>
             </div>
         </div>
     )
