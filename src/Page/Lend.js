@@ -11,7 +11,7 @@ export default function Lend() {
             <img src={MainImg} alt='Main'/>
             <div className='footer-text'>
                 <a href="https://medium.com/@double2win/double-to-win-e38001f46e2e" target="_blank" rel="noreferrer" style={{textDecoration: "none", color: "black"}}>
-                Let's Double-To-Win!
+                <span>Let's Double-To-Win!</span>
                 </a>                
             </div>
         </div>

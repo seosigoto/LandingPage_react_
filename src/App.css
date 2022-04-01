@@ -88,3 +88,9 @@
 .footer-text a{
   cursor: pointer;
 }
+
+.footer-text a span:hover {
+  background: -webkit-linear-gradient(rgb(54, 109, 226),rgb(161, 247,245), rgb(54, 109, 226));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
