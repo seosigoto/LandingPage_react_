@@ -87,10 +87,14 @@
 
 .footer-text a{
   cursor: pointer;
+  text-decoration: none;
+  color: #445983;
+  padding: 15px;
+  background-color: rgba(255,255,255,0.45);
 }
 
-.footer-text a span:hover {
+/* .footer-text a span:hover {
   background: -webkit-linear-gradient(rgb(54, 109, 226),rgb(161, 247,245), rgb(54, 109, 226));
   background-clip: text;
   -webkit-text-fill-color: transparent;
-}
+} */
